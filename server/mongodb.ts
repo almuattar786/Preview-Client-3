@@ -80,10 +80,16 @@ function setupConnectionEvents() {
 function scheduleReconnect() {
   if (reconnectTimer || !process.env.MONGODB_URI) return;
 
+  if (reconnectAttempts >= 3) {
+    if (reconnectAttempts === 3) {
+      console.log('ℹ️  [MongoDB Atlas] Auto-retry paused. Local JSON persistence is fully active. To enable Atlas, allow IP in Atlas Network Access and click "Test Connection" in Admin Settings.');
+      reconnectAttempts++;
+    }
+    return;
+  }
+
   reconnectAttempts++;
   const delay = Math.min(INITIAL_RECONNECT_INTERVAL_MS * Math.pow(1.5, reconnectAttempts - 1), MAX_RECONNECT_INTERVAL_MS);
-  
-  console.log(`⏳ [MongoDB Atlas] Attempting automatic reconnection in ${Math.round(delay / 1000)}s (Attempt #${reconnectAttempts})...`);
   
   reconnectTimer = setTimeout(async () => {
     reconnectTimer = null;
@@ -96,7 +102,6 @@ export async function connectMongo(isRetry: boolean = false): Promise<boolean> {
   const dbName = process.env.MONGODB_DB_NAME || 'al_muattar_db';
 
   if (!uri || !uri.trim()) {
-    console.log('ℹ️  MONGODB_URI not configured in environment.');
     lastConnectionError = 'MONGODB_URI is not set in environment';
     return false;
   }
@@ -155,7 +160,7 @@ export async function connectMongo(isRetry: boolean = false): Promise<boolean> {
 
     if (!isRetry) {
       console.log(
-        `ℹ️  [MongoDB Atlas] Awaiting network access (${err?.name || 'Notice'}). Local persistence active until IP is whitelisted.`
+        `ℹ️  [MongoDB Atlas] Network connection pending. Local storage is active while awaiting Atlas IP Access List approval (0.0.0.0/0).`
       );
     }
     scheduleReconnect();
