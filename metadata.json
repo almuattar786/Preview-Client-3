@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fragrant-Lab",
+  "description": "Imported from GitHub: zakwanhasan786/Al-Muattar-Preparation",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

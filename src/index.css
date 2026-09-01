@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  /* Light Mode Design Tokens (Default) */
+  :root, html.light {
+    --bg-page: #f8f6f0;
+    --bg-surface: #ffffff;
+    --bg-surface-subtle: #f2ede2;
+    --bg-surface-hover: #e8e1d3;
+    --bg-input: #ffffff;
+    --text-primary: #1c1917;
+    --text-secondary: #44403c;
+    --text-muted: #6e675f;
+    --accent-gold: #9a7229;
+    --accent-gold-hover: #7a581d;
+    --accent-gold-bg: rgba(154, 114, 41, 0.1);
+    --border-gold: rgba(154, 114, 41, 0.3);
+    --border-subtle: #e5decb;
+    --shadow-main: 0 10px 30px -5px rgba(28, 25, 23, 0.08);
+    --color-scheme: light;
+  }
+
+  /* Dark Mode Design Tokens */
+  html.dark {
+    --bg-page: #0a0a0a;
+    --bg-surface: #1a1a1a;
+    --bg-surface-subtle: #141414;
+    --bg-surface-hover: #262626;
+    --bg-input: #0a0a0a;
+    --text-primary: #f5f5f1;
+    --text-secondary: #d4d4d8;
+    --text-muted: #a1a1aa;
+    --accent-gold: #c5a059;
+    --accent-gold-hover: #d4af37;
+    --accent-gold-bg: rgba(197, 160, 89, 0.15);
+    --border-gold: rgba(197, 160, 89, 0.2);
+    --border-subtle: rgba(197, 160, 89, 0.15);
+    --shadow-main: 0 10px 30px -5px rgba(0, 0, 0, 0.5);
+    --color-scheme: dark;
+  }
+
+  * {
+    transition: background-color 0.25s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.25s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  body {
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    color-scheme: var(--color-scheme);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  }
+
+  /* Ensure all clickable buttons and button-like controls use pointer cursor */
+  button,
+  [role="button"],
+  input[type="button"],
+  input[type="submit"],
+  input[type="reset"],
+  summary,
+  select {
+    cursor: pointer;
+  }
+
+  button:disabled,
+  [role="button"][aria-disabled="true"],
+  input[type="button"]:disabled,
+  input[type="submit"]:disabled,
+  input[type="reset"]:disabled {
+    cursor: not-allowed;
+  }
+}
+
+/* Custom scrollbars for light and dark themes */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-page);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-subtle);
+  border-radius: 4px;
+  border: 1px solid var(--border-gold);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-gold);
+}

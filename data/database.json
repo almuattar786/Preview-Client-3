@@ -1,0 +1,751 @@
+{
+  "products": [
+    {
+      "id": "prod-001",
+      "name": "Oud Al-Mu'attar Royal",
+      "slug": "oud-al-muattar-royal",
+      "description": "The crown jewel of Al-Mu'attar. An opulent blend of rare Cambodian Oud, smoked amber, and velvet Damask rose. Formulated for longevity and irresistible projection.",
+      "shortDescription": "Opulent Cambodian Oud with smoked amber and Damask rose.",
+      "price": 14500,
+      "compareAtPrice": 17000,
+      "category": "Oud",
+      "brand": "Al-Mu'attar",
+      "size": "100ml",
+      "fragranceType": "Extrait de Parfum",
+      "gender": "Unisex",
+      "notes": {
+        "top": [
+          "Saffron",
+          "Bergamot",
+          "Bulgarian Rose"
+        ],
+        "heart": [
+          "Cambodian Oud",
+          "Amberwood",
+          "Smoked Incense"
+        ],
+        "base": [
+          "Pure Agarwood",
+          "Dark Leather",
+          "Vanilla Bean"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 24,
+      "sku": "AM-OUD-001",
+      "isFeatured": true,
+      "isBestseller": true,
+      "isActive": true,
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    },
+    {
+      "id": "prod-002",
+      "name": "Amber Noir Intense",
+      "slug": "amber-noir-intense",
+      "description": "A dark, sensual masterpiece marrying rich Baltic amber with warm spices and cream sandalwood. Perfect for evening wear and special occasions.",
+      "shortDescription": "Warm Baltic amber, rich cinnamon, and creamy sandalwood.",
+      "price": 9800,
+      "compareAtPrice": 11500,
+      "category": "Perfumes",
+      "brand": "Al-Mu'attar",
+      "size": "100ml",
+      "fragranceType": "Eau de Parfum",
+      "gender": "Unisex",
+      "notes": {
+        "top": [
+          "Cardamom",
+          "Pink Pepper",
+          "Cinnamon Bark"
+        ],
+        "heart": [
+          "Golden Amber",
+          "Myrrh",
+          "Labdanum"
+        ],
+        "base": [
+          "Mysore Sandalwood",
+          "Tonka Bean",
+          "Cashmere Musk"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 18,
+      "sku": "AM-AMB-002",
+      "isFeatured": true,
+      "isBestseller": true,
+      "isActive": true,
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    },
+    {
+      "id": "prod-003",
+      "name": "Dehn Al Oud Khas (Pure Oil)",
+      "slug": "dehn-al-oud-khas",
+      "description": "100% pure aged Assam Oud oil extracted using ancient distillation methods. Unfiltered, rich, woody, and intensely long-lasting attar oil.",
+      "shortDescription": "100% pure aged Assam Oud attar oil in crystal bottle.",
+      "price": 18500,
+      "compareAtPrice": 22000,
+      "category": "Attars",
+      "brand": "Al-Mu'attar",
+      "size": "12ml (1 Tola)",
+      "fragranceType": "Attar Oil",
+      "gender": "Unisex",
+      "notes": {
+        "top": [
+          "Wild Aged Oud",
+          "Earthy Woods"
+        ],
+        "heart": [
+          "Smoked Resin",
+          "Warm Leather"
+        ],
+        "base": [
+          "Deep Agarwood Extract",
+          "Animalic Spice"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 8,
+      "sku": "AM-ATT-003",
+      "isFeatured": true,
+      "isBestseller": true,
+      "isActive": true,
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    },
+    {
+      "id": "prod-004",
+      "name": "Arabian Rose Imperial",
+      "slug": "arabian-rose-imperial",
+      "description": "A captivating floral melody showcasing Taif Rose petals soaked in sweet vanilla nectar, white musk, and delicate sandalwood.",
+      "shortDescription": "Taif rose blossom infused with vanilla nectar and white musk.",
+      "price": 7200,
+      "compareAtPrice": 8500,
+      "category": "Perfumes",
+      "brand": "Al-Mu'attar",
+      "size": "100ml",
+      "fragranceType": "Eau de Parfum",
+      "gender": "Women",
+      "notes": {
+        "top": [
+          "Taif Rose",
+          "Lychee",
+          "Mandarin Zest"
+        ],
+        "heart": [
+          "Turkish Rose Absolute",
+          "Jasmine Sambac",
+          "Peony"
+        ],
+        "base": [
+          "Bourbon Vanilla",
+          "White Musk",
+          "Cedarwood"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 30,
+      "sku": "AM-ROS-004",
+      "isFeatured": true,
+      "isBestseller": true,
+      "isActive": true,
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    },
+    {
+      "id": "prod-005",
+      "name": "Sultan's Leather & Tobacco",
+      "slug": "sultans-leather-tobacco",
+      "description": "A bold, regal fragrance designed for the discerning gentleman. Combines cured Cuban tobacco leaves, Italian leather, clove, and rich amber.",
+      "shortDescription": "Regal cured tobacco leaf, Italian leather, and spiced cloves.",
+      "price": 11200,
+      "compareAtPrice": 13000,
+      "category": "Perfumes",
+      "brand": "Al-Mu'attar",
+      "size": "100ml",
+      "fragranceType": "Extrait de Parfum",
+      "gender": "Men",
+      "notes": {
+        "top": [
+          "Whiskey Accord",
+          "Clove Bud",
+          "Nutmeg"
+        ],
+        "heart": [
+          "Tobacco Leaf",
+          "Tuscan Leather",
+          "Patchouli"
+        ],
+        "base": [
+          "Amber Resin",
+          "Guaiac Wood",
+          "Oakmoss"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 14,
+      "sku": "AM-MEN-005",
+      "isFeatured": true,
+      "isBestseller": true,
+      "isActive": true,
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    },
+    {
+      "id": "prod-006",
+      "name": "Musk Blanc Supreme",
+      "slug": "musk-blanc-supreme",
+      "description": "An ethereal, velvety clean white musk enhanced with gentle lily of the valley, white tea, and soft iris root. Pure sophistication for daily elegance.",
+      "shortDescription": "Velvety clean white musk, white tea, and iris root.",
+      "price": 6500,
+      "compareAtPrice": 7500,
+      "category": "Perfumes",
+      "brand": "Al-Mu'attar",
+      "size": "100ml",
+      "fragranceType": "Eau de Parfum",
+      "gender": "Unisex",
+      "notes": {
+        "top": [
+          "White Tea",
+          "Fresh Cotton",
+          "Bergamot"
+        ],
+        "heart": [
+          "White Musk",
+          "Lily of the Valley",
+          "Iris Root"
+        ],
+        "base": [
+          "Clean Amber",
+          "Cashmeran",
+          "Sandalwood"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 35,
+      "sku": "AM-MSK-006",
+      "isFeatured": false,
+      "isActive": true,
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    },
+    {
+      "id": "prod-007",
+      "name": "Silver Wood & Bergamot",
+      "slug": "silver-wood-bergamot",
+      "description": "Crisp Calabrian bergamot infused with smoky cedarwood, vetiver, and sparkling marine accords. Energetic, refined, and effortlessly modern.",
+      "shortDescription": "Sparkling Calabrian bergamot with smoked cedarwood and vetiver.",
+      "price": 8900,
+      "compareAtPrice": 10200,
+      "category": "Perfumes",
+      "brand": "Al-Mu'attar",
+      "size": "100ml",
+      "fragranceType": "Eau de Parfum",
+      "gender": "Men",
+      "notes": {
+        "top": [
+          "Calabrian Bergamot",
+          "Grapefruit",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Cedarwood",
+          "Vetiver",
+          "Black Pepper"
+        ],
+        "base": [
+          "Ambroxan",
+          "Dry Woods",
+          "White Amber"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 20,
+      "sku": "AM-SLV-007",
+      "isFeatured": false,
+      "isActive": true,
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    },
+    {
+      "id": "prod-008",
+      "name": "Jasmine Motia Concentrated Attar",
+      "slug": "jasmine-motia-attar",
+      "description": "Pure concentrated oil of midnight blooming Jasmine (Motia). Alcohol-free traditional oil blended with creamy sandalwood base.",
+      "shortDescription": "Traditional alcohol-free midnight blooming Motia jasmine oil.",
+      "price": 4500,
+      "compareAtPrice": 5200,
+      "category": "Attars",
+      "brand": "Al-Mu'attar",
+      "size": "12ml (1 Tola)",
+      "fragranceType": "Attar Oil",
+      "gender": "Unisex",
+      "notes": {
+        "top": [
+          "Fresh Green Leaves",
+          "Morning Dew"
+        ],
+        "heart": [
+          "Midnight Jasmine Motia",
+          "Tubereuse"
+        ],
+        "base": [
+          "Creamy Sandalwood Oil",
+          "Soft Amber"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 42,
+      "sku": "AM-JAS-008",
+      "isFeatured": false,
+      "isActive": true,
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    },
+    {
+      "id": "prod-009",
+      "name": "Velvet Oud Gold",
+      "slug": "velvet-oud-gold",
+      "description": "A luxurious unisex fragrance combining sweet caramel accord, warm amber, precious oud, and smooth Madagascar vanilla.",
+      "shortDescription": "Rich gourmand oud laced with golden amber and vanilla.",
+      "price": 12800,
+      "compareAtPrice": 15000,
+      "category": "Oud",
+      "brand": "Al-Mu'attar",
+      "size": "100ml",
+      "fragranceType": "Extrait de Parfum",
+      "gender": "Unisex",
+      "notes": {
+        "top": [
+          "Salted Caramel",
+          "Cinnamon",
+          "Davana"
+        ],
+        "heart": [
+          "Golden Amber",
+          "Precious Oud",
+          "Rose Absolute"
+        ],
+        "base": [
+          "Madagascar Vanilla",
+          "Musk",
+          "Benzoin"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 4,
+      "sku": "AM-VLV-009",
+      "isFeatured": true,
+      "isActive": true,
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    },
+    {
+      "id": "bundle-001",
+      "name": "Maison Discovery Bundle (Choose Any 3)",
+      "slug": "maison-discovery-bundle-choose-any-3",
+      "description": "Curate your bespoke fragrance wardrobe. Select any 3 full-sized artisanal fragrances from our master collection for an exclusive bundled price. Handcrafted in Lahore with the finest Cambodian Oud and French oils.",
+      "shortDescription": "Build your own custom luxury bundle: select any 3 fragrances from our collection.",
+      "price": 24500,
+      "compareAtPrice": 32000,
+      "category": "Perfumes",
+      "categories": [
+        "Perfumes",
+        "Oud"
+      ],
+      "brand": "Al-Mu'attar House",
+      "size": "3 x 100ml / 50ml EDP/Extrait",
+      "fragranceType": "Extrait de Parfum",
+      "gender": "Unisex",
+      "notes": {
+        "top": [
+          "Custom Selected Fragrances"
+        ],
+        "heart": [
+          "Oud, Amber, White Floral, Spices"
+        ],
+        "base": [
+          "Rare Woods, Vanilla & Musk"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 50,
+      "sku": "AM-BNDL-001",
+      "isFeatured": true,
+      "isBestseller": true,
+      "isActive": true,
+      "isBundle": true,
+      "requiredSelectionCount": 3,
+      "eligibleProductIds": [
+        "prod-001",
+        "prod-002",
+        "prod-003",
+        "prod-004",
+        "prod-005",
+        "prod-006",
+        "prod-007",
+        "prod-008",
+        "prod-009"
+      ],
+      "bundleOptions": [
+        {
+          "id": "opt-prod-001",
+          "type": "existing",
+          "productId": "prod-001"
+        },
+        {
+          "id": "opt-prod-002",
+          "type": "existing",
+          "productId": "prod-002"
+        },
+        {
+          "id": "opt-prod-003",
+          "type": "existing",
+          "productId": "prod-003"
+        },
+        {
+          "id": "opt-prod-004",
+          "type": "existing",
+          "productId": "prod-004"
+        },
+        {
+          "id": "opt-prod-005",
+          "type": "existing",
+          "productId": "prod-005"
+        },
+        {
+          "id": "opt-prod-006",
+          "type": "existing",
+          "productId": "prod-006"
+        },
+        {
+          "id": "opt-prod-007",
+          "type": "existing",
+          "productId": "prod-007"
+        },
+        {
+          "id": "opt-prod-008",
+          "type": "existing",
+          "productId": "prod-008"
+        },
+        {
+          "id": "opt-prod-009",
+          "type": "existing",
+          "productId": "prod-009"
+        },
+        {
+          "id": "opt-custom-001",
+          "type": "custom",
+          "name": "Royal Blend",
+          "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=600",
+          "category": "Custom Blend"
+        },
+        {
+          "id": "opt-custom-002",
+          "type": "custom",
+          "name": "Arabian Rose",
+          "image": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&q=80&w=600",
+          "category": "Custom Blend"
+        },
+        {
+          "id": "opt-custom-003",
+          "type": "custom",
+          "name": "Midnight Oud",
+          "image": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&q=80&w=600",
+          "category": "Custom Blend"
+        }
+      ],
+      "bundleBadge": "Build Your Own (3 Fragrances)",
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    },
+    {
+      "id": "bundle-002",
+      "name": "Artisanal Duo Discovery Set (Choose Any 2)",
+      "slug": "artisanal-duo-discovery-set-choose-any-2",
+      "description": "A luxurious pairing of two signature Al-Mu'attar fragrances of your choice. An ideal gift or addition to your private collection at a special introductory bundle rate.",
+      "shortDescription": "Choose any 2 signature fragrances from our luxury collection.",
+      "price": 18900,
+      "compareAtPrice": 24000,
+      "category": "Oud",
+      "categories": [
+        "Oud",
+        "Perfumes"
+      ],
+      "brand": "Al-Mu'attar House",
+      "size": "2 x 100ml EDP",
+      "fragranceType": "Eau de Parfum",
+      "gender": "Unisex",
+      "notes": {
+        "top": [
+          "Custom Selected Fragrances"
+        ],
+        "heart": [
+          "Amber, Rose, Smoked Leather"
+        ],
+        "base": [
+          "Precious Oud, Sandalwood"
+        ]
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&q=80&w=800",
+        "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&q=80&w=800"
+      ],
+      "stock": 35,
+      "sku": "AM-BNDL-002",
+      "isFeatured": true,
+      "isActive": true,
+      "isBundle": true,
+      "requiredSelectionCount": 2,
+      "eligibleProductIds": [
+        "prod-001",
+        "prod-002",
+        "prod-003",
+        "prod-004",
+        "prod-005",
+        "prod-009"
+      ],
+      "bundleOptions": [
+        {
+          "id": "opt-prod-001",
+          "type": "existing",
+          "productId": "prod-001"
+        },
+        {
+          "id": "opt-prod-002",
+          "type": "existing",
+          "productId": "prod-002"
+        },
+        {
+          "id": "opt-prod-003",
+          "type": "existing",
+          "productId": "prod-003"
+        },
+        {
+          "id": "opt-prod-004",
+          "type": "existing",
+          "productId": "prod-004"
+        },
+        {
+          "id": "opt-prod-005",
+          "type": "existing",
+          "productId": "prod-005"
+        },
+        {
+          "id": "opt-prod-009",
+          "type": "existing",
+          "productId": "prod-009"
+        },
+        {
+          "id": "opt-custom-004",
+          "type": "custom",
+          "name": "Private Reserve Oud",
+          "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=600",
+          "category": "Artisanal Reserve"
+        }
+      ],
+      "bundleBadge": "Special Value Duo (2 Fragrances)",
+      "createdAt": "2026-08-30T18:08:00.791Z",
+      "updatedAt": "2026-08-30T18:08:00.791Z"
+    }
+  ],
+  "orders": [],
+  "customers": [],
+  "contactMessages": [
+    {
+      "id": "msg-101",
+      "fullName": "Zainab Ahmed",
+      "email": "zainab.a@example.com",
+      "phone": "+92 321 9876543",
+      "subject": "Inquiry regarding custom fragrance gift box",
+      "message": "Assalam o Alaikum, do you offer customized packaging for wedding gift favors with Oud Al-Mu'attar?",
+      "isRead": false,
+      "createdAt": "2026-08-28T18:08:00.900Z"
+    }
+  ],
+  "subscribers": [
+    {
+      "id": "sub-101",
+      "email": "perfume.lover@example.com",
+      "subscribedAt": "2026-08-30T18:08:00.791Z"
+    }
+  ],
+  "reviews": [],
+  "settings": {
+    "storeName": "Al-Mu'attar",
+    "tagline": "Haute Parfumerie Orientale",
+    "currencySymbol": "Rs.",
+    "shippingFee": 0,
+    "standardShippingFee": 0,
+    "freeShippingThreshold": 0,
+    "isFreeShippingEnabled": true,
+    "contactEmail": "info@almuattar.com",
+    "supportEmail": "concierge@almuattar.com",
+    "contactPhone": "+92 300 1234567",
+    "whatsappNumber": "+92 300 1234567",
+    "storeAddress": "104 Mall Road, Gulberg III, Lahore, Pakistan",
+    "announcementBarText": "Free Express Shipping Across Pakistan On All Orders | Cash on Delivery Available",
+    "isLogoEnabled": true,
+    "logoUrl": "https://scontent.fmux4-1.fna.fbcdn.net/v/t39.30808-6/478027044_1019853990163594_1413852064171433507_n.jpg?stp=dst-jpg_tt6&cstp=mx1000x566&ctp=s1000x566&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=r4pGVvvvqewQ7kNvwHL01CJ&_nc_oc=AdrWu8S341R0a0folfbe1xUS41rG-nPsaoMy-E1D_hjgEi3VRzLcWGx3jkYXIYtqwd0&_nc_zt=23&_nc_ht=scontent.fmux4-1.fna&_nc_gid=9_qzl8eMqKzXrJwbzO6o9Q&_nc_ss=7b289&oh=00_AQGxSNaHK86s60yEg2gfGkShe71jPsOy2kOyhewR-0mzBw&oe=6A82A082",
+    "heroImageUrl": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&q=80&w=1920",
+    "heroBadgeText": "The Essence Of Elegance",
+    "heroHeadingLine1": "Discover Your",
+    "heroHeadingGradient": "Signature Scent",
+    "heroDescription": "Crafted with royal Cambodian Oud, Taif roses, and aged baltic amber. Experience unmatched projection and regal sillage by Al-Mu'attar.",
+    "promiseStatement": "We source raw ingredients directly from sustainable distillers in Assam, Cambodia, Grasse, and Taif. Every bottle undergoes batch testing for pure olfactory excellence.",
+    "footerText": "Maison de Parfum • Est. Lahore, Pakistan",
+    "homepageCategoriesCount": 3,
+    "categories": [
+      {
+        "id": "cat-1",
+        "name": "Perfumes",
+        "description": "Artisanal Extraits & Eau de Parfums",
+        "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=800",
+        "badge": "Best Seller",
+        "iconName": "Sparkles"
+      },
+      {
+        "id": "cat-2",
+        "name": "Attars",
+        "description": "Pure Concentrated Perfume Oils",
+        "image": "https://images.unsplash.com/photo-1615397349754-cfa2066a298e?auto=format&fit=crop&q=80&w=800",
+        "badge": "Traditional",
+        "iconName": "Droplets"
+      },
+      {
+        "id": "cat-3",
+        "name": "Oud",
+        "description": "Aged Cambodian & Indian Dehn Al Oud",
+        "image": "https://images.unsplash.com/photo-1547887537-6158d64c35b3?auto=format&fit=crop&q=80&w=800",
+        "badge": "Pure Wood",
+        "iconName": "Flame"
+      }
+    ],
+    "collections": {
+      "enabled": true,
+      "sectionTitle": "COLLECTIONS",
+      "sectionSubtitle": "Curated by Essence & Silhouette",
+      "menImage": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&q=80&w=1200",
+      "womenImage": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&q=80&w=1200",
+      "unisexImage": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=1200",
+      "menTitle": "MEN",
+      "womenTitle": "Women",
+      "unisexTitle": "Unisex",
+      "menSubtitle": "Collection",
+      "womenSubtitle": "Collection",
+      "unisexSubtitle": "Collection",
+      "menCtaText": "Explore now",
+      "womenCtaText": "Explore now",
+      "unisexCtaText": "Explore now"
+    },
+    "ourCollection": {
+      "enabled": true,
+      "heroBadgeText": "Maison Al-Mu'attar Privé",
+      "heroTitle": "Our Signature Fragrance Collection",
+      "heroSubtitle": "Maison Al-Mu'attar Privé Accords",
+      "heroDescription": "Mastercrafted in limited artisanal batches with genuine rare Cambodian agarwood, pure Taif rose absolutes, and vintage ambergris. Each creation is formulated at exceptional Extrait concentration for unmatched sillage.",
+      "heroImageUrl": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=1920",
+      "heroBannerUrl": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=1920",
+      "seoTitle": "Our Collection — Al-Mu'attar Signature Perfumes & Pure Attars",
+      "seoDescription": "Explore Al-Mu'attar's proprietary house fragrances, handcrafted extraits, and rare oud essences.",
+      "defaultBanner": {
+        "imageUrl": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=1920",
+        "badgeText": "Signature House Reserve",
+        "title": "Our Signature Fragrance Collection",
+        "subtitle": "Maison Al-Mu'attar Privé Accords",
+        "description": "Mastercrafted in limited artisanal batches with genuine rare Cambodian agarwood, pure Taif rose absolutes, and vintage ambergris."
+      },
+      "menBanner": {
+        "imageUrl": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&q=80&w=1920",
+        "badgeText": "Privé Masculin",
+        "title": "Signature Masculine Accords",
+        "subtitle": "Royal Agarwood, Smoked Amber & Cured Tobacco",
+        "description": "Distinguished extraits formulated with aged Cambodian oud, dark leather, and spiced cloves for commanding longevity."
+      },
+      "womenBanner": {
+        "imageUrl": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&q=80&w=1920",
+        "badgeText": "Privé Féminin",
+        "title": "Signature Feminine Accords",
+        "subtitle": "Taif Rose Absolutes, White Musks & Velvet Florals",
+        "description": "Sublime floral extraits featuring morning-harvested Taif roses, blooming jasmine sambac, and aged bourbon vanilla."
+      },
+      "unisexBanner": {
+        "imageUrl": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=1920",
+        "badgeText": "Privé Universel",
+        "title": "Signature Unisex Accords",
+        "subtitle": "Timeless Sillage & Balanced Rare Resins",
+        "description": "A masterful equilibrium of rare spices, creamy sandalwood, and crystalline musks that transcend traditional categorizations."
+      }
+    },
+    "shopCollection": {
+      "enabled": true,
+      "defaultBanner": {
+        "imageUrl": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=1920",
+        "badgeText": "Curated Haute Parfumerie",
+        "title": "Shop All Fragrances",
+        "subtitle": "Maison Al-Mu'attar Masterworks",
+        "description": "Explore mastercrafted Extraits de Parfum, pure Cambodian agarwood essences, and non-alcoholic attars formulated for exceptional longevity and regal sillage."
+      },
+      "menBanner": {
+        "imageUrl": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&q=80&w=1920",
+        "badgeText": "Masculine Accords",
+        "title": "Men's Fragrance Selection",
+        "subtitle": "Smoked Woods, Tuscan Leather & Spiced Ambers",
+        "description": "Commanding olfactory profiles featuring smoked birch, Italian leather, royal ambergris, and warm oriental spices for distinguished presence."
+      },
+      "womenBanner": {
+        "imageUrl": "https://images.unsplash.com/photo-1588405748880-12d1d2a59f75?auto=format&fit=crop&q=80&w=1920",
+        "badgeText": "Feminine Accords",
+        "title": "Women's Fragrance Selection",
+        "subtitle": "Taif Rose Petals, Ethereal Florals & Sweet Nectars",
+        "description": "Enchanting floral extraits, velvety Taif rose nectars, white jasmine blossoms, and crystalline Madagascar vanilla for sublime elegance."
+      },
+      "unisexBanner": {
+        "imageUrl": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=1920",
+        "badgeText": "Universal Harmony",
+        "title": "Unisex Fragrance Selection",
+        "subtitle": "Harmonious Signature Scents For All Connoisseurs",
+        "description": "Sophisticated signature blends designed to transcend boundaries and adapt organically with individual skin chemistry."
+      }
+    }
+  },
+  "adminUser": {
+    "id": "admin-001",
+    "email": "almuattar786@gmail.com",
+    "passwordHash": "$2b$10$h29XPVQX0xpdZc.1.JJsDO1ZjKZjBFlBWJoO.itakoqsqbBA8tZG6",
+    "updatedAt": "2026-08-30T18:24:33.061Z"
+  }
+}
